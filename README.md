@@ -1,4 +1,4 @@
-<h1>Hi, I am Vansh Maurya!</h1>
+<h1 align="center">Hi, I'm Vansh Maurya</h1>
 
 💫 About Me:
 💻 Currently in Full Stack Website Development,
