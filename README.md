@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Vansh Maurya</h1>
+<p align="center"><a href="https://github.com/va24nsh">Hi, I'm Vansh Maurya!/a></p>
 💫 About Me:
 💻 Currently in Full Stack Website Development,
 🎢 Open to discussing new opportunities,
