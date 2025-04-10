@@ -14,4 +14,4 @@
 **Languages:** ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)  
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=va24nsh&theme=radical&hide_border=false&include_all_commits=true&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=va24nsh&theme=radical&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=va24nsh&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=va24nsh&theme=radical&hide_border=false&include_all_commits=true&count_private=true) ![](https://nirzak-streak-stats.vercel.app/?user=va24nsh&theme=radical&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=va24nsh&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
