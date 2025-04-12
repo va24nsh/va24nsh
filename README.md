@@ -6,19 +6,6 @@
 🔧 Passionate about solving complex problems 
 </p>
 
-<h2 align="center">🌐 Connect with Me</h2>
-<p align="center">
-  <a href="https://www.linkedin.com/in/vansh-maurya/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/Luc27aV">
-    <img src="https://img.shields.io/badge/%20-%23000000.svg?logo=x&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/luc27av">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
-  </a>
-</p>
-
 <h2 align="center">💻 Tech Stack</h2><br />
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white" />
@@ -54,4 +41,17 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=va24nsh&theme=github_dark&hide_border=true" /><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=va24nsh&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=va24nsh&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+</p>
+
+<h2 align="center">🌐 Connect with Me</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/vansh-maurya/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/Luc27aV">
+    <img src="https://img.shields.io/badge/%20-%23000000.svg?logo=x&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/luc27av">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
+  </a>
 </p>
