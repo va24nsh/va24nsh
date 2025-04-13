@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Vansh Maurya</h1>
 <p align="center">
-💫 <strong>About Me:</strong><br/>
-🚀 Full Stack Web Developer | 📌 Open to opportunities <br/>
-🌍 Building scalable systems  <br/>
-🔧 Passionate about solving complex problems 
+<strong>About Me:</strong>
+Full Stack Developer | Open to opportunities |
+Building scalable systems |
+Solving complex problems 
 </p>
 
 <h2 align="center">💻 Tech Stack</h2><br />
