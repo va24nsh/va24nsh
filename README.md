@@ -53,3 +53,7 @@ Solving complex problems
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
   </a>
 </p>
+<p align="center">
+  <img src="https://github.com/va24nsh/snk/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake animation dark" />
+</p>
+
