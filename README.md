@@ -1,5 +1,3 @@
-# About Me
-
 I'm a full-stack developer focused on scalable systems, real-time applications, and infrastructure automation.  
 I work end-to-end — from distributed backends to polished UIs.
 
