@@ -1,4 +1,5 @@
-From designing websites, to architecting scalable back-ends with with integrated AI-Agentic Systems, I do it all. Transforming your business to maximize profit and reduce time consumption.
+<h4>From designing websites, to architecting scalable back-ends with integrated AI-Agentic Systems, I do it all.</h4>
+<h4>Transforming your business to maximize profit and reduce time consumption.</h4>
 
 ## Let's Connect
 
