@@ -1,27 +1,4 @@
-I'm a full-stack developer focused on scalable systems, real-time applications, and infrastructure automation.  
-I work end-to-end — from distributed backends to polished UIs.
-
-## Core Competencies
-
-- **Distributed Messaging & Real-Time:** Kafka, Redis, Socket.IO  
-- **Containerization & Orchestration:** Docker, Kubernetes  
-- **Cloud Infrastructure:** AWS EC2, S3  
-- **Monitoring & Observability:** Prometheus, Grafana, Loki  
-- **Monorepo Management:** Turborepo  
-- **Cross-Platform Development:** React Native
-
-## Technical Stack
-
-- **Backend:** Node.js, Express, Prisma, PostgreSQL, MongoDB  
-- **Frontend:** React, Recoil, Next.js, Tailwind CSS  
-
-## Areas of Interest
-
-- Scalable Microservice Architectures  
-- Real-Time System Design  
-- Infrastructure Automation & CI/CD  
-- Developer Experience & Tooling  
-- Mobile Development with Shared Logic  
+From designing websites, to architecting scalable back-ends with with integrated AI-Agentic Systems, I do it all. Transforming your business to maximize profit and reduce time consumption.
 
 ## Let's Connect
 
